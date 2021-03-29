@@ -2,4 +2,8 @@
 
 # 鼠标
 
+| 设备名称 | 操作系统 | 适配器 | 测试人 |
+|--|--|--|--|
+| 小米便携鼠标（MiMouse） | Linux arch 5.11.6 | RTL8822CE |[kearney](https://github.com/BackMountainDevil)|
+
 # 耳机
