@@ -12,3 +12,5 @@
 | 米物精英键盘 | Linux arch 5.11.6 | RTL8822CE |[kearney](https://github.com/BackMountainDevil)|
 
 # 耳机
+
+# 音箱
