@@ -4,9 +4,11 @@ Linux 操作系统 蓝牙 键盘 鼠标 耳机 适配清单
 
 # 相关文档
 
-- [适配清单](docs/zh-Hans/README.md)
+- [最终结果](https://anidea.gitee.io/linuxkeymouse/#/)
 
-- [不适配清单](docs/zh-Hans/README.md)
+- [适配清单](docs/success.md)
+
+- [不适配清单](docs/fail.md)
 
 # 贡献方法
 
