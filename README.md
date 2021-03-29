@@ -1,16 +1,23 @@
-# Introduction
+# 简介
 
-Linux OS bluetooth keyboard and mouse list
+Linux 操作系统 蓝牙 键盘 鼠标 耳机 适配清单
 
-There is a Chinese version([中文版本](./README_zh.md))
+# 相关文档
 
-# Links
+- [适配清单](docs/zh-Hans/README.md)
 
-- [Documentation](docs/README.md)
+- [不适配清单](docs/zh-Hans/README.md)
 
-# Contributing
+# 贡献方法
 
+## issue
 
-# License
+在 issue 中给出相关信息，由维护人员修改到仓库中
+
+## PR
+
+Fork一份，自行修改然后PR合并
+
+# 开源协议
 
 MIT
