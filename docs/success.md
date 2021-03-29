@@ -13,3 +13,7 @@
 # 耳机
 
 # 音箱
+
+| 设备名称 | 操作系统 | 适配器 | 测试人 |
+|--|--|--|--|
+| Philips BT2000 | Linux arch 5.11.6 | RTL8822CE |[kearney](https://github.com/BackMountainDevil)|
